@@ -15,10 +15,6 @@ Javascript vanilla
 ## 🖇️ IMAGENS
 
 
-
-
-
-
 **Regras do jogo 📖**
 
 As regras do jogo são as seguintes:
@@ -35,8 +31,6 @@ As regras do jogo são as seguintes:
 - Quando o Usuário parar de comprar, o computador inicia suas jogadas, comprando cartas até que atinja a pontuação superior que a do Usuário ou ultrapasse 21 pontos.
 - O jogador com a maior pontuação e não ultrapassando 21 ganha a rodada. 
 - Se o usuário ultrapassar 21 ele perde o jogo.
-
-
 
 
 ## 🖇️ Colaborando

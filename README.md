@@ -12,6 +12,11 @@ Abrir o console e responder aos alertas de confimação no browser.
 ## 🛠️ Construído com
 Javascript vanilla
 
+![Screenshot from 2021-02-26 17-25-12](https://user-images.githubusercontent.com/77758983/110386196-c36d9b00-803e-11eb-8c53-bcd7030f0a8a.png)
+![Screenshot from 2021-02-26 17-27-07](https://user-images.githubusercontent.com/77758983/110386201-c36d9b00-803e-11eb-881b-19c591258b31.png)
+![Screenshot from 2021-02-27 15-35-58](https://user-images.githubusercontent.com/77758983/110386202-c4063180-803e-11eb-82a3-5e357d08036d.png)
+![Screenshot from 2021-02-27 15-38-28](https://user-images.githubusercontent.com/77758983/110386203-c4063180-803e-11eb-9098-83303b18768a.png)
+![Screenshot from 2021-03-08 18-11-16](https://user-images.githubusercontent.com/77758983/110386204-c49ec800-803e-11eb-9070-80eff3388124.png)
 
 **Regras do jogo 📖**
 
